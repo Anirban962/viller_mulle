@@ -1,0 +1,41 @@
+
+
+@font-face {
+    font-family: 'westmeathitalic';
+    src: url('../fonts/westmeath/westmeath_italic-webfont.woff') format('woff'),
+         url('../fonts/westmeath/westmeath_italic-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'westmeathregular';
+    src: url('../fonts/westmeath/westmeath-webfont.woff') format('woff'),
+         url('../fonts/westmeath/westmeath-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Americana Std';
+    src: url('../fonts/Americana/AmericanaStd.woff') format('woff'),
+        url('../fonts/Americana/AmericanaStd.woff2') format('woff2'),
+        url('../fonts/Americana/AmericanaStd.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Americana Std Bold';
+    src: url('../fonts/Americana/AmericanaStd-Bold.woff') format('woff'),
+        url('../fonts/Americana/AmericanaStd-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
